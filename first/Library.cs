@@ -4,12 +4,22 @@
     {
         private List<T> _libraryItems = new List<T>();
         public void ADD(T item)
+
         {
+                if(_libraryItems.Count != 0) { item.ID = _libraryItems.Last().ID+ 1; }
+                else { item.ID = 0; }
+                
+            
             _libraryItems.Add(item);
         }
-        public void REMOVE(T item) { 
-        
-            _libraryItems.Remove(item);
+        public void REMOVE(T item) {
+           
+            if (item != null)
+            {
+                _libraryItems.Remove(item);
+            }
+
+            
         }
         public void ShowAllList()
         {

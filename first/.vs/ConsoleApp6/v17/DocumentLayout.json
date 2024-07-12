@@ -7,28 +7,28 @@
       "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\first-question.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:first-question.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\first-question.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:first-question.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\first-question.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:first-question.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\first-question.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:first-question.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "first-question",
               "DocumentMoniker": "C:\\Users\\10\\source\\repos\\quiz\\first\\first-question.csproj",
               "RelativeDocumentMoniker": "first-question.csproj",
@@ -57,49 +57,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Magazine.cs",
               "DocumentMoniker": "C:\\Users\\10\\source\\repos\\quiz\\first\\Magazine.cs",
               "RelativeDocumentMoniker": "Magazine.cs",
               "ToolTip": "C:\\Users\\10\\source\\repos\\quiz\\first\\Magazine.cs",
               "RelativeToolTip": "Magazine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T06:20:02.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "LibraryItem.cs",
               "DocumentMoniker": "C:\\Users\\10\\source\\repos\\quiz\\first\\LibraryItem.cs",
               "RelativeDocumentMoniker": "LibraryItem.cs",
               "ToolTip": "C:\\Users\\10\\source\\repos\\quiz\\first\\LibraryItem.cs",
               "RelativeToolTip": "LibraryItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T06:18:15.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\10\\source\\repos\\quiz\\first\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
               "ToolTip": "C:\\Users\\10\\source\\repos\\quiz\\first\\Book.cs",
               "RelativeToolTip": "Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T06:16:43.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\10\\source\\repos\\quiz\\first\\Library.cs",
               "RelativeDocumentMoniker": "Library.cs",
               "ToolTip": "C:\\Users\\10\\source\\repos\\quiz\\first\\Library.cs",
               "RelativeToolTip": "Library.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAYAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T06:16:40.752Z"
             },
@@ -111,14 +111,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\10\\source\\repos\\quiz\\first\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T05:36:59.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "first-question.csproj",
               "DocumentMoniker": "C:\\Users\\10\\source\\repos\\quiz\\first\\first-question.csproj",
               "RelativeDocumentMoniker": "first-question.csproj",
@@ -126,8 +126,7 @@
               "RelativeToolTip": "first-question.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-12T06:41:07.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T06:41:07.23Z"
             }
           ]
         }

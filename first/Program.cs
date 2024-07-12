@@ -17,6 +17,7 @@
             library1.REMOVE(book2);
             Console.WriteLine("\nlibray 1  after remove: \n");
             library1.ShowAllList();
+
             library2.ADD(magazine1);
             library2.ADD(magazine2);
             Console.WriteLine("\nlibray 2 : \n");
