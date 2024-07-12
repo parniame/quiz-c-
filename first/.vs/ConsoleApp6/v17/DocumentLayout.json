@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\",
+  "WorkspaceRootPath": "C:\\Users\\10\\source\\repos\\quiz\\first\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\learning_vs2\\consoleapp6\\first-question.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\first-question.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:first-question.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\learning_vs2\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\learning_vs2\\consoleapp6\\first-question.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\first-question.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:first-question.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\learning_vs2\\consoleapp6\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\learning_vs2\\consoleapp6\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\learning_vs2\\consoleapp6\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\learning_vs2\\consoleapp6\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|c:\\users\\10\\source\\repos\\quiz\\first\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3019F11-AB00-4C65-81BE-7B2D41EC83D2}|first-question.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,21 +48,20 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "first-question",
-              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\first-question.csproj",
+              "DocumentMoniker": "C:\\Users\\10\\Source\\Repos\\quiz\\first\\first-question.csproj",
               "RelativeDocumentMoniker": "first-question.csproj",
-              "ToolTip": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\first-question.csproj",
+              "ToolTip": "C:\\Users\\10\\Source\\Repos\\quiz\\first\\first-question.csproj",
               "RelativeToolTip": "first-question.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-12T06:49:44.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T06:49:44.64Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Magazine.cs",
-              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\quiz\\first\\Magazine.cs",
               "RelativeDocumentMoniker": "Magazine.cs",
-              "ToolTip": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\Magazine.cs",
+              "ToolTip": "C:\\Users\\10\\source\\repos\\quiz\\first\\Magazine.cs",
               "RelativeToolTip": "Magazine.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +71,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "LibraryItem.cs",
-              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\quiz\\first\\LibraryItem.cs",
               "RelativeDocumentMoniker": "LibraryItem.cs",
-              "ToolTip": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\10\\source\\repos\\quiz\\first\\LibraryItem.cs",
               "RelativeToolTip": "LibraryItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +83,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\quiz\\first\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\Book.cs",
+              "ToolTip": "C:\\Users\\10\\source\\repos\\quiz\\first\\Book.cs",
               "RelativeToolTip": "Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,9 +95,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\Library.cs",
+              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\quiz\\first\\Library.cs",
               "RelativeDocumentMoniker": "Library.cs",
-              "ToolTip": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\Library.cs",
+              "ToolTip": "C:\\Users\\10\\source\\repos\\quiz\\first\\Library.cs",
               "RelativeToolTip": "Library.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,27 +107,30 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\quiz\\first\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\10\\source\\repos\\quiz\\first\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T05:36:59.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T05:36:59.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "first-question.csproj",
-              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\first-question.csproj",
+              "DocumentMoniker": "C:\\Users\\10\\Source\\Repos\\quiz\\first\\first-question.csproj",
               "RelativeDocumentMoniker": "first-question.csproj",
-              "ToolTip": "C:\\Users\\10\\source\\repos\\learning_vs2\\ConsoleApp6\\first-question.csproj",
+              "ToolTip": "C:\\Users\\10\\Source\\Repos\\quiz\\first\\first-question.csproj",
               "RelativeToolTip": "first-question.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-12T06:41:07.23Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
