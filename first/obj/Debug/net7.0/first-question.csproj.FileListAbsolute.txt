@@ -1,0 +1,15 @@
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\bin\Debug\net7.0\first-question.exe
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\bin\Debug\net7.0\first-question.deps.json
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\bin\Debug\net7.0\first-question.runtimeconfig.json
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\bin\Debug\net7.0\first-question.dll
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\bin\Debug\net7.0\first-question.pdb
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\obj\Debug\net7.0\first-question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\obj\Debug\net7.0\first-question.AssemblyInfoInputs.cache
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\obj\Debug\net7.0\first-question.AssemblyInfo.cs
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\obj\Debug\net7.0\first-question.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\obj\Debug\net7.0\first-question.sourcelink.json
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\obj\Debug\net7.0\first-question.dll
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\obj\Debug\net7.0\refint\first-question.dll
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\obj\Debug\net7.0\first-question.pdb
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\obj\Debug\net7.0\first-question.genruntimeconfig.cache
+C:\Users\10\source\repos\learning_vs2\ConsoleApp6\obj\Debug\net7.0\ref\first-question.dll
