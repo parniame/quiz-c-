@@ -13,11 +13,11 @@
             {
                 Console.WriteLine("Underweight");
             }
-            else if(bmi >= 18.5D &&  bmi < 25) {
+            else if(bmi >= 18.5D &&  bmi < 25D) {
                 Console.WriteLine("Normal");
             
             }
-            else if (bmi >= 25 && bmi < 30 )
+            else if (bmi >= 25D && bmi < 30D )
             {
                 Console.WriteLine("Overweight");
             }
@@ -28,15 +28,20 @@
                 
          }
         public static string NormalizePhoneNumber(this string phoneNumber)
-        {
-            if(phoneNumber.Length >= 11 &&  phoneNumber.Length <= 13) {
 
-                if (phoneNumber.StartsWith("+98"))
-                    return phoneNumber.Replace("+98", "0");
-                else if (phoneNumber.StartsWith("0"))
+        {
+            if (phoneNumber.Length == 11)
+            {
+                if (phoneNumber.StartsWith("0"))
                 {
                     return phoneNumber;
                 }
+            }
+            else if ( phoneNumber.Length == 13) {
+
+                if (phoneNumber.StartsWith("+98"))
+                    return phoneNumber.Replace("+98", "0");
+                
 
             }
 
